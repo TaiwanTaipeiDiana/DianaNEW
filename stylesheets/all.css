@@ -23,6 +23,7 @@
   --bs-gray-900: #212529;
   --bs-primary: #E9997D;
   --bs-primary2: #2f5872;
+  --bs-link: #5BA3BA;  
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -7707,6 +7708,16 @@ fieldset:disabled .btn {
 .link-dark:hover, .link-dark:focus {
   color: #1a1e21;
 }
+
+
+.link-link {
+  color: #E36087;
+}
+
+.link-link:hover, .link-link:focus {
+  color: #C12655;
+}
+
 
 .ratio {
   position: relative;
